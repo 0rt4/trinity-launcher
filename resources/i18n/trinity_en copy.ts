@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="fr" sourcelanguage="fr">
+<TS version="2.1" language="en" sourcelanguage="es">
 <context>
     <name>Exporter</name>
     <message>
@@ -8,17 +8,17 @@
         <location filename="../../src/TrinityLib/core/exporter.cpp" line="79"/>
         <location filename="../../src/TrinityLib/core/exporter.cpp" line="94"/>
         <source>Error</source>
-        <translation>Erreur</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="../../src/TrinityLib/core/exporter.cpp" line="29"/>
         <source>La versión no existe.</source>
-        <translation>Cette version n&apos;existe pas.</translation>
+        <translation>Version does not exist.</translation>
     </message>
     <message>
         <location filename="../../src/TrinityLib/core/exporter.cpp" line="35"/>
         <source>Exportar versión</source>
-        <translation>Exporter la version</translation>
+        <translation>Export version</translation>
     </message>
     <message>
         <location filename="../../src/TrinityLib/core/exporter.cpp" line="36"/>
@@ -26,15 +26,15 @@
 
 Sí: Incluye la versión completa (datos del juego).
 No: Solo exporta mods, mapas, etc.</source>
-        <translation>Exporter &apos;%1&apos; avec les données de l'APK ?
+        <translation>Export &apos;%1&apos; with APK data?
 
-Oui : inclure la version complète
-Non : exporter uniquement les mods, cartes, etc.</translation>
+Yes: Includes full version (game data).
+No: Only exports mods, maps, etc.</translation>
     </message>
     <message>
         <location filename="../../src/TrinityLib/core/exporter.cpp" line="44"/>
         <source>Guardar como archivo</source>
-        <translation>Enregistrer en tant que fichier</translation>
+        <translation>Save as file</translation>
     </message>
     <message>
         <location filename="../../src/TrinityLib/core/exporter.cpp" line="45"/>
